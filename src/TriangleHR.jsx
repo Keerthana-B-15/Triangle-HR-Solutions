@@ -24,7 +24,7 @@ const TriangleHRWebsite = () => {
 
   const services = [
     { title: 'Counselling', icon: '🎯', description: 'Professional career guidance and counseling' },
-    { title: 'Soft Skill Training', icon: '💡', description: 'Comprehensive skill development programs' },
+    { title: 'Soft Skill', icon: '💡', description: 'Comprehensive skill development programs' },
     { title: 'Recruitment Assistance', icon: '👥', description: 'Direct networking with companies' },
     { title: 'Workshops & Internship Programs', icon: '📚', description: 'Hands-on learning experiences' }
   ];
